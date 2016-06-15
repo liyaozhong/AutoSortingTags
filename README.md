@@ -8,10 +8,12 @@
 
 
 ![swap](https://github.com/liyaozhong/AutoSortingTags/blob/master/swap.gif)
+
 交换两个位置
 
 ##order
   
 
 ![order](https://github.com/liyaozhong/AutoSortingTags/blob/master/order.gif)
+
 重新排序
